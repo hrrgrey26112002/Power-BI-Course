@@ -1,7 +1,4 @@
 # Power-BI-Course
-Here is your translated project description in English:
-
----
 
 # Data Professional Survey Breakdown
 
