@@ -13,6 +13,7 @@ This is a Power BI project I created based on an online course. The project util
 
 ### Participants' Countries  
 The chart shows the distribution of participants by country. Most of the respondents are from the United States, followed by India, the UK, Canada, and other countries.
+![image](https://github.com/user-attachments/assets/1991d192-5037-4368-ba05-e3e00c12d673)
 
 ### Average Salary by Job Title  
 A bar chart displays the average salary for each job title. Data scientists have the highest salaries, followed by data architects and data engineers.
